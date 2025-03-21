@@ -1,5 +1,8 @@
 # 3aa-algo-valid
 
+> [!Important]
+> Tout le code attendu est en langage C
+
 Le rendu attendu est sous la forme d'un dépôt nommé `3aa-algo-valid` **privé** sur lequel l'utilisateur `esirem-chassel` sera ajouté en collaborateur.
 
 L'usage des documentations officielles et de la recherche sur Internet est __autorisé__. L'usage des intelligences artificielles (Copilot...) et la communication vers des tiers sont __interdits__.
